@@ -1,3 +1,5 @@
 Most of the applications depend of the operating systems to execute their functions.one operating system function is for the system to provide service to the applications that are being stored in the computer.
+
 Another operating system function it for protection of privacy. Most of operating systems have built in virus and malware protection to protect your computer to download malicious programs.
 
+Another operating system function is file management. The computer has a way of storing files and it keeps track of these files and where it's stored. It also tells you how big the file is and how much space it takes from your memmory.
