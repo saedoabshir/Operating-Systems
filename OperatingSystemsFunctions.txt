@@ -1,0 +1,2 @@
+one operating system function is for the system to provide service to the applications that are being stored in the computer.
+Most of the applications depend of the operating systems to execute their functions.
